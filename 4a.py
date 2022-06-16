@@ -1,6 +1,7 @@
 #Using deep feed forward network with two hidden layers for performing classification and predicting the class.
 #Code :
 #pip install keras
+#pip install sklearn
 from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.datasets import make_blobs
