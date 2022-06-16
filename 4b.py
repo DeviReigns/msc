@@ -1,6 +1,7 @@
 #pip install keras
 #pip install sklearn
 # b) Aim: Using a deep field forward network with two hidden layers for performing classification and predicting the probability of class.
+#code:
 from keras.models import Sequential
 from keras.layers import Dense
 from sklearn.datasets import make_blobs
